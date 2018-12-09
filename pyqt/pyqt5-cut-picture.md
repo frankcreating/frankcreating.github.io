@@ -1,4 +1,5 @@
-﻿'''# -*- coding:utf-8 -*-
+﻿'''
+ # -*- coding:utf-8 -*-
 
     import ctypes
 
@@ -40,6 +41,7 @@
 
                 return
 '''
+
 主要是使用剪贴板传递图片并保存
 
 
