@@ -10,4 +10,4 @@
 </br>
 # 预览图
 
-![test](https://github.com/frankcreating/leiMu_-/blob/master/gif/focus.gif)
+![test.gif](https://github.com/frankcreating/leiMu_-/blob/master/gif/focus.gif)
