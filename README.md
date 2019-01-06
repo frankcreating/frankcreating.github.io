@@ -7,7 +7,7 @@
 [2]:https://github.com/frankcreating/frankcreating.github.io/blob/master/pyqt/pyqt5-cut-picture.md
 [3]:https://github.com/frankcreating/frankcreating.github.io/blob/master/pyqt/pyqt5-draganddrop.md
 [4]:https://github.com/frankcreating/leiMu_-
-</br>
+<br>
 # 预览图
 
 ![test.gif](https://github.com/frankcreating/leiMu_-/blob/master/gif/focus.gif)
