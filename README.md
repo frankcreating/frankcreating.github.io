@@ -9,5 +9,5 @@
 [4]:https://github.com/frankcreating/leiMu_-
 <br>
 # 预览图
+<img style="box-shadow: 10px 10px 5px #888888;border: 1px solid black;" src="https://github.com/frankcreating/leiMu_-/blob/master/gif/focus.gif"></img>
 
-![test.gif](https://github.com/frankcreating/leiMu_-/blob/master/gif/focus.gif)
