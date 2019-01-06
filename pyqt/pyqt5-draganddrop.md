@@ -1,5 +1,6 @@
-通过重写QScrollArea 类实现的文件拖拽操作
+閫氳繃閲嶅啓QScrollArea 绫诲疄鐜扮殑鏂囦欢鎷栨嫿鎿嶄綔
 ```
+#coding:utf-8
 class MyScrollWidget(QtWidgets.QScrollArea):
     def __init__(self,parent=None):
         super().__init__(parent)
@@ -32,4 +33,7 @@ class MyScrollWidget(QtWidgets.QScrollArea):
             else:
                 event.ignore()
         except Exception as e:
-            print(e)```
+            print(e)
+            
+            
+            ```
